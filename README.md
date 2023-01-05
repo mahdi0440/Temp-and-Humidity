@@ -15,7 +15,7 @@
 ## Installation 
 
 1. Connect The Electronic Components as shown in the image in Schematic Directory.
-2. Extract The DHT Library and HC-05 Library in C:\Users\<ins>Username</ins>\Documents\Arduino\libraries
+2. Extract The DHT Library and HC-05 Library in C:\Users\Username\Documents\Arduino\libraries
 - Use your Username instead of the Username in the address
 3. Connect Arduino UNO With USB Cable To PC.
 3. Open the Project with Temp_Hum.ino file in The Temp_Hum Directory.
